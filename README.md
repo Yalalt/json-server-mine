@@ -1,2 +1,3 @@
 # json-server-mine
-json-server -p 3006 db.json -watch
+You can start JSON Server on other ports with the --port flag:
+$ json-server --watch db.json --port 3004
