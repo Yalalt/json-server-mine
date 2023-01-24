@@ -1,2 +1,2 @@
 # json-server-mine
-json-server
+json-server -p 3006 
