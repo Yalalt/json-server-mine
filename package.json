@@ -1,0 +1,23 @@
+{
+  "name": "json-server-mine",
+  "version": "1.0.0",
+  "description": "json-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -p 3006 -w db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yalalt/json-server-mine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yalalt/json-server-mine/issues"
+  },
+  "homepage": "https://github.com/Yalalt/json-server-mine#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
